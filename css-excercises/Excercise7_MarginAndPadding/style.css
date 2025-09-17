@@ -1,0 +1,30 @@
+body {
+    max-width: 600px;
+    margin: 0;
+}
+
+div {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.div1 {
+    padding: 32px;
+    margin: 12px;
+    border: 5px solid blue;
+    background-color: pink;
+}
+
+.div2 {
+    margin: 0;
+    border: 5px solid purple;
+    background-color: lightblue;
+}
+
+.div3 {
+    padding: 32px;
+    margin-top: 48px;
+    margin-left: 400px;
+    margin-right: 0;
+    border: 5px solid brown;
+    background-color: peachpuff;
+}
